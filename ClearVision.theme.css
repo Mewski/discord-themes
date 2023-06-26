@@ -13,10 +13,10 @@
 @import url('https://mentalscars.github.io/Patch/transparency.css'); 
 
 :root {
-  --main-color: #B774FF;
-  --hover-color: #7B4FAB;
-  --success-color: #58D99E;
-  --danger-color: #E76969;
+  --main-color: #b4befe;
+  --hover-color: #89b4fa;
+  --success-color: #a6e3a1;
+  --danger-color: #f38ba8;
   --url-color: var(--main-color);
   --background-shading: 100%;
   --background-position: center;
@@ -58,10 +58,10 @@
   --channel-unread: var(--main-color);
   --channel-color: rgba(255,255,255,0.3);
   --muted-color: rgba(255,255,255,0.1);
-  --online-color: #43b581;
-  --idle-color: #faa61a;
-  --dnd-color: #982929;
-  --streaming-color: #593695;
+  --online-color: #a6e3a1;
+  --idle-color: #f9e2af;
+  --dnd-color: #f38ba8;
+  --streaming-color: #cba6f7;
   --offline-color: #808080;
   --main-font: gg sans;
   --code-font: Consolas;
